@@ -10,4 +10,4 @@ The avatar representing myself used in the site comes from https://getavataaars.
 
 The hugo theme I used to quickly build the site was [hugo refresh](https://themes.gohugo.io/hugo-refresh/).
 
-Icons seen on the site were either custom made or used from [devicon](https://konpa.github.io/devicon/) and [ccsninja](https://bulkitv2.cssninja.io/_components-icons-fa.html).
+Icons seen on the site were either custom made or used from [devicon](https://konpa.github.io/devicon/) and [ccsninja](https://bulkitv2.cssninja.io/_components-icons-fa.html). Also images from [undraw](https://undraw.co/illustrations).
