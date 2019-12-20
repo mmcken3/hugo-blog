@@ -1,0 +1,68 @@
+baseURL: https://example.com
+languageCode: en-us
+title: Mitchell McKenzie
+theme: hugo-refresh
+
+
+disableKinds: ["sitemap","RSS"]
+
+Taxonomies:
+  tag: "tags"
+
+# Supported fonts are:
+# https://fonts.google.com/
+
+# Icons taken from:
+# https://konpa.github.io/devicon/
+# https://bulkitv2.cssninja.io/_components-icons-fa.html
+
+params:
+  jsMinify: false
+  jsFingerprint: false
+  cssMinify: true
+  cssFingerprint: true
+  # option to specify the main colour of the theme
+  mainColour: "#F39200"
+
+  # summary options
+  summary:
+    # option to specify the default image in the summary list
+    defaultImage : "/images/default_summary.jpg"
+  
+  # loading options
+  loading:
+    image: "/images/loaders/rings.svg"
+
+  # main pages options
+  mainPage:
+    fontFamily: "Open Sans" 
+
+  # sidebar options
+  sidebar:
+    logo: "/images/refresh-square.svg"
+    fontFamily: "Open Sans"
+
+  # navbar options
+  navbar:
+    fontFamily: "Open Sans"
+  
+  # 404 page options
+  pagNotFound:
+    image: "/images/avataaars_404.png"
+    title: 404 Page Not Found :(
+    subtitle: This is probably not the page you were looking for...
+    imageWidth: 500px
+
+  # homepage options
+  homepage:
+    title: Mitchell McKenzie
+    subtitle: I solve real world problems with software
+    image: "/images/avataaars.png" # worker.svg 
+    imageWidth: 500px
+
+  # footer options
+  footer:
+    logo: "/images/refresh-square.svg"
+    email: mitchell.mckenzie95@gmail.com
+    linkedin: https://www.linkedin.com/in/mitchell-mckenzie-533292109/
+    copyright: Mitchell McKenzie - 2019
